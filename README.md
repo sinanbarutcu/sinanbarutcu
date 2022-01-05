@@ -1,16 +1,36 @@
-### Hi there 👋
+<br>
+## Hi there, I'm <font color="aqua"> Sinan 👋 </font>
 
-<!--
-**sinanbarutcu/sinanbarutcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+---
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+<br>
+
+
+<img height="50" width="50" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
+
+[LinkedIn](https://www.linkedin.com/in/sinan-barutçu-80450042) 
+
+<br>
+
+---
+
+<br>
+
+### Technologies
+<br>
+
+<img height="50" width="50" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" />
+<img height="50" width="50" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
+<img height="50" width="50" src="https://unpkg.com/simple-icons@v6/icons/bootstrap.svg" />
+<img height="50" width="50" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
+
+
+
+
+
+
+
